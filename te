@@ -1,0 +1,14 @@
+.controller.custom{
+    background: url(https://i.imgur.com/P4nQ5pX.jpg); 
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    width: 970px;
+    height: 424px;
+    margin-left: -485px;
+    margin-top: -212px;
+}
+.custom.disconnected {
+    background: url(drawing/drawing.svg); 
+    background-position: 0px -424px;
+    background-repeat: no-repeat;
+}
